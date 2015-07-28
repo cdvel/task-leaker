@@ -1,9 +1,9 @@
-package taskleaker;
+package examples.taskleaker;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class TaskLeaker {
+public class ExTaskLeaker {
 
     public static void main(String[] args) {
         TaskList taskList = new TaskList();
@@ -48,7 +48,12 @@ public class TaskLeaker {
 
         public void execute() {
             //dostuff
+            
         }
+        
+        
+        
+        
     }
 
 }
